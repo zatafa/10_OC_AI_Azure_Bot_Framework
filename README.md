@@ -22,7 +22,7 @@ The dialogues are more complex than what we need for the MVP, thus, it's very go
 # :scroll: Tasks
 - :heavy_check_mark: Perform Exploratory Data Analysis (EDA) and Data wrangling;
 - :heavy_check_mark: Build LUIS App, including train-test-publish-predict part;
-- :heavy_check_mark: copy [Microsoft Core Bot Python Samples, including App Insights](https://github.com/microsoft/BotBuilder-Samples/tree/main/samples/python/21.corebot-app-insights) from Github, and adapt the scripts to the project's objectives;
+- :heavy_check_mark: Copy [Microsoft Core Bot Python Samples, including App Insights](https://github.com/microsoft/BotBuilder-Samples/tree/main/samples/python/21.corebot-app-insights) from Github, and adapt the scripts to the project's objectives;
 - :heavy_check_mark: Monitor the performance of the chatbot with App Insights;
 - :heavy_check_mark: Plan and integrate automated testing;
 - :heavy_check_mark: Embed in Azure Web App for model serving (deploy).
